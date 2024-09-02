@@ -21,4 +21,4 @@ ENV STREAMLIT_SERVER_HEADLESS true
 ENV STREAMLIT_SERVER_PORT 8501
 
 # Run the Streamlit app
-CMD ["streamlit", "run", "example1.py"]
+CMD ["streamlit", "run", "app.py"]
